@@ -27,9 +27,9 @@ Now writing technical articles for Enlear Academy [Enlear](https://www.enlear.co
 
 
  
-- Check out my Portfolio: [https://minurasam.github.io/My-Portfolio/](https://minurasam.github.io/My-Portfolio/)
+- Check out my Portfolio: [My-Portfolio](https://minurasam.github.io/My-Portfolio/)
 - Know more about me: [About Minura](https://www.linkedin.com/in/minura-samaranayake-2172923a/)
-- Write to me: [minura.samaranayake@gmail.com](mailto:minura.samaranayake@gmail.com)
+- Write to me: [Email](mailto:minura.samaranayake@gmail.com)
 
 <h2>📫 How to reach me:</h2>
 
