@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **minurasam/minurasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,21 +15,19 @@ Here are some ideas to get you started:
 -->
 
 ![Minura Samaranayake Banner Image](./Banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+I'm Minura Samaranayake! 
+- <i>Currently:</i> BSc(Hons) CS Student at University of Peradeniya, Sri Lanka.
 
-<h2>💻 I'm Currently Learning</h2>
+<h2>💻 I'm Currently Learning and Working Part Time</h2>
 
 __Tensorflow Developer Certification__
-- [DeepLearning.ai - TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [University of Michigan - Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/UT6CBYPBWTHA)
+- [DeepLearning.ai - Neural Networks and Deep Learning] (https://www.coursera.org/account/accomplishments/certificate/MW6ABU6UWCX3)
 
 <!-- __University of Illinois at Chicago__
 - CS412 Introduction to Machine Learning
