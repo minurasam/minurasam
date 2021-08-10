@@ -3,7 +3,7 @@
 
 <h2>Hey! 👋</h2>
 
-[GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)
+[! [GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)]
 
 I'm Minura Samaranayake! 
 - <i>Currently:</i> BSc(Hons) CS Student at University of Peradeniya, Sri Lanka.
