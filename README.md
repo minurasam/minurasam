@@ -19,7 +19,7 @@ __University of Peradeniya at Sri Lanka__
 <h2>Currently working:</h2>
 <h4>Technical Writer at Enlear (Pvt Ltd)</h4>
 
-Now Technical Writer for Enlear Academy [Enlear](https://www.enlear.com/dashboard/articles/published)
+Now writing technical articles for Enlear Academy [Enlear](https://www.enlear.com/dashboard/articles/published)
 
 
 
