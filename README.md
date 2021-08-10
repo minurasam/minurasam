@@ -10,7 +10,7 @@ I'm Minura Samaranayake!
 
 <h2>💻 I'm Currently Learning</h2>
 
-__University of Illinois at Chicago__
+__University of Peradeniya at Sri Lanka__
 - CS401 Artificial Intelligence & Expert Systems
 - CS408 Computer Vision
 - CS406 Foundations of Distributed Computing
