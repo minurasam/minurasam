@@ -11,10 +11,11 @@ I'm Minura Samaranayake!
 <h2>💻 I'm Currently Learning</h2>
 
 __University of Peradeniya at Sri Lanka__
-- CS401 Artificial Intelligence & Expert Systems
-- CS408 Computer Vision
-- CS406 Foundations of Distributed Computing
-- CS414 Software Project Management
+- CS409 Artificial Neural Networks & Fuzzy Logic
+- CS404 Parallel Processing
+- CS412 Mobile and Pervasive Computing
+- CS410 Internet and Multimedia Systems
+- ST402 Data Mining Techniques
 
 <h2>Currently working:</h2>
 <h4>Technical Writer at Enlear (Pvt Ltd)</h4>
