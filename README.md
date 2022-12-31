@@ -8,16 +8,10 @@
 I'm Minura Samaranayake! 
 - <i>Currently:</i> BSc(Hons) CS Student at University of Peradeniya, Sri Lanka.
 
-<h2>💻 I'm Currently Learning</h2>
-
-__University of Peradeniya at Sri Lanka__
-- CS409 Artificial Neural Networks & Fuzzy Logic
-- CS404 Parallel Processing
-- CS412 Mobile and Pervasive Computing
-- CS410 Internet and Multimedia Systems
-- ST402 Data Mining Techniques
 
 <h2>Currently working:</h2>
+
+<h4>Sysco LABS Technologies (Pvt Ltd)</h4>
 <h4>Technical Writer at Enlear (Pvt Ltd)</h4>
 
 Now writing technical articles for Enlear Academy [Enlear](https://www.enlear.com/dashboard/articles/published)
