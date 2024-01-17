@@ -1,6 +1,4 @@
 
-![Minura Samaranayake Banner Image]
-
 <h2>Hey! 👋</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)
