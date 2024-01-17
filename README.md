@@ -1,5 +1,5 @@
 
-![Minura Samaranayake Banner Image](./Banner.png)
+![Minura Samaranayake Banner Image]
 
 <h2>Hey! 👋</h2>
 
