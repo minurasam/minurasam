@@ -4,10 +4,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)
 
 I'm Minura Samaranayake! 
-- <i>Currently:</i> BSc(Hons) CS Student at University of Peradeniya, Sri Lanka.
+- <i>Currently:</i> MSc Electrical and Computer Engineering Student at South Dakota State University, USA.
 
 
-<h2>Currently working:</h2>
+<h2>Worked at:</h2>
 
 <h4>Sysco LABS Technologies (Pvt Ltd)</h4>
 <h4>Technical Writer at Enlear (Pvt Ltd)</h4>
