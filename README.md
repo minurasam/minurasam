@@ -9,10 +9,10 @@ I'm Minura Samaranayake!
 
 <h2>Worked at:</h2>
 
-<h4>Sysco LABS Technologies (Pvt Ltd)</h4>
+<h4> [Sysco LABS Technologies](https://syscolabs.lk/) (Pvt Ltd)</h4>
 <h4>Technical Writer at Enlear (Pvt Ltd)</h4>
 
-Now writing technical articles for Enlear Academy [Enlear](https://www.enlear.com/dashboard/articles/published)
+Now writing technical articles for Enlear Academy [Enlear](https://www.linkedin.com/company/enlear/posts/?feedView=all)
 
 
 
