@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)
 
 I'm Minura Samaranayake! 
-- <i>Currently:</i> MSc Electrical and Computer Engineering Student at South Dakota State University, USA.
+- MSc Electrical and Computer Engineering Student at South Dakota State University, USA.
 
 
 <h2>Worked at:</h2>
