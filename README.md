@@ -1,13 +1,13 @@
 ## Minura Samaranayake
 
-Software Engineer — AI/ML systems, RAG, distributed backends
-MS Electrical Engineering @ South Dakota State University
+Software Engineer - AI/ML systems, RAG, distributed backends
+MS Electrical Engineering @ South Dakota State University, USA
+BSc Computer SCience @ University of Peradeniya, Sri Lanka 
 
 Currently building AI infrastructure at Codice: 
-shipped a regulated-domain RAG system for DC DHCF and 
-a multi-tenant EAM platform for Delaware DOT.
+Shipped a regulated-domain RAG system for DC DHCF and 
+a multi-tenant Asset Management platform.
 
----
 
 ### What I'm building
 
