@@ -1,29 +1,30 @@
+## Minura Samaranayake
 
-<h2>Hey! 👋</h2>
+Software Engineer — AI/ML systems, RAG, distributed backends
+MS Electrical Engineering @ South Dakota State University
 
-[![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/minurasam?tab=followers)
+Currently building AI infrastructure at Codice: 
+shipped a regulated-domain RAG system for DC DHCF and 
+a multi-tenant EAM platform for Delaware DOT.
 
-I'm Minura Samaranayake! 
-- MSc Electrical and Computer Engineering Student at South Dakota State University, USA.
+---
 
+### What I'm building
 
-<h2>Worked at:</h2>
+| Project | What it is | Stack |
+|---|---|---|
+| [distributed-llm-inference-platform](link) | Multi-cloud LLM serving: vLLM + GKE + EKS, batching, KV-cache | Python, FastAPI, vLLM, Kubernetes |
+| [eligibility-verification-rag](link) | Production RAG for public benefit eligibility | FastAPI, pgvector, Claude API, Next.js |
+| [cuda-attention-kernel](link) | Optimized SDPA forward pass in CUDA | CUDA C++, PyTorch |
 
-<h4> Sysco LABS Technologies (Pvt Ltd)</h4> (https://syscolabs.lk/)
-<h4>Technical Writer at Enlear (Pvt Ltd)</h4>
+---
 
-Now writing technical articles for Enlear Academy [Enlear](https://www.linkedin.com/company/enlear/posts/?feedView=all)
+### Background
 
+- **Codice** — AI/backend SWE: multi-tenant .NET 9 + Postgres platform, LLM-powered eligibility chatbot
+- **Sysco** — Backend SWE: Java, Spring Boot, Kafka, Postgres, AWS
+- **GCP Professional ML Engineer** *(target Q3 2026)*
 
+---
 
-<h2> About Minura⚡:</h2>
-
-
- 
-- Check out my Portfolio: [My-Portfolio](https://minurasam.github.io/)
-- Know more about me: [About Minura](https://www.linkedin.com/in/minura-samaranayake-2172923a/)
-- Write to me: [Email](mailto:minura.samaranayake@gmail.com)
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:minura.samaranayake@gmail.com">![minura.samaranayake@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/minura-samaranayake-2172923a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![LinkedIn](badge)](https://linkedin.com/in/minura-samaranayake-2172923a/)
