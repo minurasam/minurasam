@@ -2,7 +2,7 @@
 
 Software Engineer - AI/ML systems, RAG, distributed backends
 MS Electrical Engineering @ South Dakota State University, USA
-BSc Computer SCience @ University of Peradeniya, Sri Lanka 
+BSc Computer Science @ University of Peradeniya, Sri Lanka 
 
 Currently building AI infrastructure at Codice: 
 Shipped a regulated-domain RAG system for DC DHCF and 
@@ -21,9 +21,8 @@ a multi-tenant Asset Management platform.
 
 ### Background
 
-- **Codice** — AI/backend SWE: multi-tenant .NET 9 + Postgres platform, LLM-powered eligibility chatbot
-- **Sysco** — Backend SWE: Java, Spring Boot, Kafka, Postgres, AWS
-- **GCP Professional ML Engineer** *(target Q3 2026)*
+- **ODICE** — AI/backend SWE: multi-tenant .NET 9 + Postgres platform, LLM-powered eligibility chatbot
+- **Sysco LABS** — Backend SWE: Java, Spring Boot, Kafka, Postgres, AWS
 
 ---
 
