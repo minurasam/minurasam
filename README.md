@@ -20,7 +20,7 @@ a multi-tenant Asset Management platform.
 
 ### Background
 
-- **ODICE** — AI/backend SWE: multi-tenant .NET 9 + Postgres platform, LLM-powered eligibility chatbot
+- **CODICE** — AI/backend SWE: multi-tenant .NET 9 + Postgres platform, LLM-powered eligibility chatbot
 - **Sysco LABS** — Backend SWE: Java, Spring Boot, Kafka, Postgres, AWS
 
 ---
