@@ -13,8 +13,8 @@ a multi-tenant Asset Management platform.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [distributed-llm-inference-platform]([link](https://github.com/minurasam/synapse-router)) | Multi-cloud LLM serving: vLLM + GKE + EKS, batching, KV-cache | Python, FastAPI, vLLM, Kubernetes |
-| [cuda-attention-kernel](link) | Optimized SDPA forward pass in CUDA | CUDA C++, PyTorch |
+| [distributed-llm-inference-platform]([link](https://github.com/minurasam/synapse-router)) | Multi-cloud LLM routing service: vLLM + GKE + EKS, batching, KV-cache | Python, FastAPI, vLLM, Kubernetes |
+
 
 ---
 
