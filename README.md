@@ -42,7 +42,7 @@ a multi-tenant Asset Management platform.
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20" align="center"/> HTML5</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20" height="20" align="center"/> CSS3</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="20" height="20" align="center"/> Bootstrap</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg" width="20" height="20" align="center"/> SprintBoot</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20" height="20" align="center"/> Spring Boot</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20" height="20" align="center"/> Node.js</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="20" height="20" align="center"/> Jekyll</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="20" height="20" align="center"/> Django</code>
@@ -63,7 +63,7 @@ a multi-tenant Asset Management platform.
 ### 📱 Mobile & Embedded Development
 <p align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="20" height="20" align="center"/> Flutter</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kafka/kafka-original.svg" width="20" height="20" align="center"/> Apache Cordova</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="20" height="20" align="center"/> Kafka</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20" align="center"/> Arduino</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="20" height="20" align="center"/> Raspberry Pi</code>
 </p>
